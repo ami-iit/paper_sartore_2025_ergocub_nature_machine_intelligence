@@ -2,3 +2,4 @@ data/twoRobotsWalking/ErgoCub/robot_logger_device_2023_06_26_19_49_41.mat filter
 data/twoRobotsWalking/iCub3/robot_logger_device_2023_06_26_19_49_42.mat filter=lfs diff=lfs merge=lfs -text
 data/collaborativePayloadLifting/human_robot/without_robot filter=lfs diff=lfs merge=lfs -text
 data/collaborativePayloadLifting/human_robot/without_load/* filter=lfs diff=lfs merge=lfs -text
+data/collaborativePayloadLifting/human_robot/with_2kg/* filter=lfs diff=lfs merge=lfs -text
