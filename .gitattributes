@@ -10,3 +10,4 @@ data/collaborativePayloadLifting/Human_data/exp/empty/ filter=lfs diff=lfs merge
 data/collaborativeWalking/ filter=lfs diff=lfs merge=lfs -text
 data/twoRobotsWalking/ErgoCub/ filter=lfs diff=lfs merge=lfs -text
 data/twoRobotsWalking/iCub3/ filter=lfs diff=lfs merge=lfs -text
+data/walking/ filter=lfs diff=lfs merge=lfs -text
