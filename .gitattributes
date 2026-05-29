@@ -7,3 +7,4 @@ data/collaborativePayloadLifting/human_robot/with_1kg/ filter=lfs diff=lfs merge
 data/collaborativePayloadLifting/Human_data/exp/1_kg/ filter=lfs diff=lfs merge=lfs -text
 data/collaborativePayloadLifting/Human_data/exp/2_kg/ filter=lfs diff=lfs merge=lfs -text
 data/collaborativePayloadLifting/Human_data/exp/empty/ filter=lfs diff=lfs merge=lfs -text
+data/collaborativeWalking/ filter=lfs diff=lfs merge=lfs -text
