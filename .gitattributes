@@ -5,3 +5,4 @@ data/collaborativePayloadLifting/human_robot/without_load/* filter=lfs diff=lfs 
 data/collaborativePayloadLifting/human_robot/with_2kg/* filter=lfs diff=lfs merge=lfs -text
 data/collaborativePayloadLifting/human_robot/with_1kg/ filter=lfs diff=lfs merge=lfs -text
 data/collaborativePayloadLifting/Human_data/exp/1_kg/ filter=lfs diff=lfs merge=lfs -text
+data/collaborativePayloadLifting/Human_data/exp/2_kg/ filter=lfs diff=lfs merge=lfs -text
